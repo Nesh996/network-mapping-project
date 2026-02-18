@@ -21,7 +21,7 @@ A simple network diagram is included to show how the devices are connected to th
 
 This diagram shows how my devices connect to the router and the internet:
 
-![Network Diagram](network-diagram.png)
+![Network Diagram]
 Internet
 |
 Router (172.20.6.1)
