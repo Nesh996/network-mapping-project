@@ -8,26 +8,8 @@ A simple network diagram is included to show how the devices are connected to th
 
 ---
 
-## My Network Information
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b655194d-71ab-4f03-9d1a-53b9c0b7cea7" />
 
-- **IPv4 Address:** 172.20.6.190  
-- **Subnet Mask:** 255.255.254.0  
-- **Default Gateway:** 172.20.6.1  
-- **DNS Server:** 8.8.8.8
-
----
-
-## Network Diagram
-
-This diagram shows how my devices connect to the router and the internet:
-
-Internet
-   |
-Router (172.20.6.1)
-   |
-Laptop (172.20.6.190)
-   |
-Phone
 
 
 *Diagram description: Internet connects to the Router (172.20.6.1), which connects to a Laptop (172.20.6.190) and a Phone.*
