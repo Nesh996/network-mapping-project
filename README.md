@@ -21,12 +21,14 @@ A simple network diagram is included to show how the devices are connected to th
 
 This diagram shows how my devices connect to the router and the internet:
 
-![Network Diagram]
 Internet
-|
+   |
 Router (172.20.6.1)
-|
-Laptop (172.20.6.88)
+   |
+Laptop (172.20.6.190)
+   |
+Phone
+
 
 *Diagram description: Internet connects to the Router (172.20.6.1), which connects to a Laptop (172.20.6.190) and a Phone.*
 
