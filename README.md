@@ -1,4 +1,11 @@
 # Network Mapping & Ping Test
+----------------------------------------
+Network Mapping and Connectivity Testing
+----------------------------------------
+
+Name: Nandipha Swana
+Course: IT Support
+Date Submitted: 19/02/2026 
 
 ## Introduction
 
